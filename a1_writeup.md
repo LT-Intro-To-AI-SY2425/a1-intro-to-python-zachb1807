@@ -13,11 +13,13 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 ## Reflection Questions
 
 1. What is your initial thoughts about the python programming language?
+It's definitely a nice change from using Java every day in APCSA last year. I like that it offers a wider selection of built-in functions to allow solving problems faster.
 
 
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
-
+I've mainly used Java at school before and this definitely has a lot of differences, mainly a more simple readable syntax and being dynamically typed. It's a bit more similar to other languages I've used like Javascript, which is also dynamically types and has a relatively simple syntax compared to Java.
 
 
 3. What are some things that you learned through this assignment?
+I learned more about how to shape a ChatGPT prompt to get the answers you want and it was a good refresher for my algorithmic thinking skills.
